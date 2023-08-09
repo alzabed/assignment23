@@ -1,0 +1,18 @@
+/* public/css/app.css */
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
